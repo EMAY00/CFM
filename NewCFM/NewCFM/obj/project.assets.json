@@ -480,11 +480,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Elenn\\source\\repos\\NewCFM\\NewCFM\\NewCFM.csproj",
+      "projectUniqueName": "C:\\Users\\Elenn\\Desktop\\CFM\\NewCFM\\NewCFM\\NewCFM.csproj",
       "projectName": "NewCFM",
-      "projectPath": "C:\\Users\\Elenn\\source\\repos\\NewCFM\\NewCFM\\NewCFM.csproj",
+      "projectPath": "C:\\Users\\Elenn\\Desktop\\CFM\\NewCFM\\NewCFM\\NewCFM.csproj",
       "packagesPath": "C:\\Users\\Elenn\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Elenn\\source\\repos\\NewCFM\\NewCFM\\obj\\",
+      "outputPath": "C:\\Users\\Elenn\\Desktop\\CFM\\NewCFM\\NewCFM\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
